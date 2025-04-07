@@ -1,7 +1,3 @@
-# Jonas dos Santos
-
-## 👨‍💻 Desenvolvedor Full Stack | 📊 Analista de Dados
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonasdos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonasdos)
 [![Email](https://img.shields.io/badge/Email-jonas.dsds%40hotmail.com-red?style=flat-square&logo=microsoft-outlook)](mailto:jonas.dsds@hotmail.com)
 [![Telefone](https://img.shields.io/badge/Telefone-(51)%2098504--5145-green?style=flat-square&logo=whatsapp)](tel:+5551985045145)
