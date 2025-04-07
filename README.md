@@ -1,3 +1,7 @@
+# Prazer, sou o Jonas!
+
+## 👨‍💻 Desenvolvedor Full Stack | 📊 Analista de Dados
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonasdos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonasdos)
 [![Email](https://img.shields.io/badge/Email-jonas.dsds%40hotmail.com-red?style=flat-square&logo=microsoft-outlook)](mailto:jonas.dsds@hotmail.com)
 [![Telefone](https://img.shields.io/badge/Telefone-(51)%2098504--5145-green?style=flat-square&logo=whatsapp)](tel:+5551985045145)
@@ -51,13 +55,13 @@ Sistema integrado para alimentação de dados estatísticos em tempo real durant
 
 ## 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonasdos&show_icons=true&theme=dark)
+
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasdos&layout=compact&theme=dark)
 
 ## 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas** - UniRitter (2024)
-- **Dev Full Stack** - Driven Education (Conclusão: abril/2025)
+- **Dev Full Stack** - Driven Education (2025)
 - **UI Design** - Origamid (2024)
 - **Programador Web** - Instituto Federal de Canoas (2023)
 - **Técnico em Contabilidade** - IEE Ruben Dario (2013)
