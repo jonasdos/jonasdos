@@ -42,7 +42,7 @@ Atualmente, divido meu tempo entre projetos freelance e o aprimoramento contínu
 ### [Bola Toda Sports](https://bola-toda-sports.vercel.app/)
 Plataforma web desenvolvida para atendimento, gestão e publicidade de uma empresa de quadras esportivas.
 - **Tecnologias**: React, Vite, Spring Boot, PostgreSQL, Docker
-- **Repositório**: [github.com/jonasdos/bola-toda-sports](https://github.com/jonasdos/bolaTodaSports)
+- **Repositório**: [github.com/jonasdos/bolaTodaSports](https://github.com/jonasdos/bolaTodaSports)
 
 ### StreamData - Sistema de Análise para Transmissões Esportivas
 Sistema integrado para alimentação de dados estatísticos em tempo real durante transmissões ao vivo.
