@@ -10,7 +10,7 @@
 
 Desenvolvedor Full Stack e Analista de Dados com formação em Análise e Desenvolvimento de Sistemas. 
 Construí uma sólida base profissional no setor administrativo/financeiro, atuando como ponte estratégica entre áreas operacionais e gerenciais, o que me impulsionou a aprofundar conhecimentos em tecnologia. 
-Atualmente, divido meu tempo entre projetos freelance e o aprimoramento contínuo de habilidades técnicas de desenvolvimento Full Stack. Comprometido com a entrega de soluções modernas que resolvem desafios reais de negócio.
+Atualmente, divido meu tempo entre projetos freelance e o aprimoramento contínuo de habilidades técnicas de desenvolvimento Full Stack. Comprometido com a entrega de soluções modernas que resolvem desafios reais de negócios.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -74,4 +74,4 @@ Sistema integrado para alimentação de dados estatísticos em tempo real durant
 
 ---
 
-⚡ **Curiosidades**: Além de programar, sou músico (compositor, guitarrista e baixista), pratico musculação e jogo futebol. Também servi no Exército como Soldado do Canil.
+
