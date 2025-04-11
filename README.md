@@ -1,6 +1,6 @@
 # Prazer, sou o Jonas!
 
-## 👨‍💻 Desenvolvedor Full Stack | 📊 Analista de Dados
+## Desenvolvedor Full Stack | Analista de Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonasdos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonasdos)
 [![Email](https://img.shields.io/badge/Email-jonas.dsds%40hotmail.com-red?style=flat-square&logo=microsoft-outlook)](mailto:jonas.dsds@hotmail.com)
@@ -9,10 +9,10 @@
 ## Sobre mim
 
 Desenvolvedor Full Stack e Analista de Dados com formação em Análise e Desenvolvimento de Sistemas. 
-Construí uma sólida base profissional no setor administrativo/financeiro, atuando como ponte estratégica entre áreas operacionais e gerenciais, o que me impulsionou a aprofundar conhecimentos em tecnologia. 
+Durante grande parte da minha carreira profissional, atuei como ponte estratégica entre áreas operacionais e gerenciais, o que me impulsionou a aprofundar conhecimentos em tecnologia. 
 Atualmente, divido meu tempo entre projetos freelance e o aprimoramento contínuo de habilidades técnicas de desenvolvimento Full Stack. Comprometido com a entrega de soluções modernas que resolvem desafios reais de negócios.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -22,7 +22,7 @@ Atualmente, divido meu tempo entre projetos freelance e o aprimoramento contínu
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -42,7 +42,7 @@ Atualmente, divido meu tempo entre projetos freelance e o aprimoramento contínu
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 ### [Bola Toda Sports](https://bola-toda-sports.vercel.app/)
 Plataforma web desenvolvida para atendimento, gestão e publicidade de uma empresa de quadras esportivas.
