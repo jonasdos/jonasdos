@@ -4,13 +4,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonasdos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonasdos)
 [![Email](https://img.shields.io/badge/Email-jonas.dsds%40hotmail.com-red?style=flat-square&logo=microsoft-outlook)](mailto:jonas.dsds@hotmail.com)
-[![Telefone](https://img.shields.io/badge/Telefone-(51)%2098504--5145-green?style=flat-square&logo=whatsapp)](tel:+5551985045145)
+
 
 ## Sobre mim
 
 Desenvolvedor Full Stack e Analista de Dados com formação em Análise e Desenvolvimento de Sistemas. 
-Durante grande parte da minha carreira profissional, atuei como ponte estratégica entre áreas operacionais e gerenciais, o que me impulsionou a aprofundar conhecimentos em tecnologia. 
-Atualmente, divido meu tempo entre projetos freelance e o aprimoramento contínuo de habilidades técnicas de desenvolvimento Full Stack. Comprometido com a entrega de soluções modernas que resolvem desafios reais de negócios.
+
 
 ## Tecnologias e Ferramentas
 
