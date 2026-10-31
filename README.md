@@ -1,5 +1,3 @@
-# Prazer, sou o Jonas!
-
 ## Desenvolvedor Full Stack | Analista de Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonasdos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonasdos)
